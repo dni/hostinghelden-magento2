@@ -16,10 +16,24 @@ composer require magento/magento-composer-installer
 Add the VCS repository: So that composer can find the module. Add the following lines in your composer.json
 
 ```json
-"repositories": [{
-  "type": "vcs",
-  "url": "https://github.com/dni/hostinghelden-magento2"
-}],
+  "repositories": {
+    "magento2": {
+      "type": "vcs",
+      "url": "https://github.com/dni/hostinghelden-magento2"
+    },
+    "pdfupload": {
+      "type": "vcs",
+      "url": "https://github.com/dni/hostinghelden-pdfupload"
+    },
+    "pdf": {
+      "type": "vcs",
+      "url": "https://github.com/dni/hostinghelden-pdf"
+    },
+    "smtp": {
+      "type": "vcs",
+      "url": "https://github.com/dni/hostinghelden-smtp"
+    }
+  },
 ```
 
 # Installation
