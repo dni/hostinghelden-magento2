@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "repositories": {
     "pdfupload": {
-      "type": "cvs",
+      "type": "vcs",
       "url": "https://github.com/dni/hostinghelden-pdfupload"
     },
     "pdf": {
