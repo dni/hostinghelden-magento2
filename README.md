@@ -2,9 +2,9 @@
 
 removes not used extension from core and adds following extension to your installation:
 
-* Hostinghelden/Smtp
+* [Hostinghelden/Smtp](https://github.com/dni/hostinghelden-smtp)
 * [Hostinghelden/Pdf](https://github.com/dni/hostinghelden-pdf)
-* Hostinghelden/Pdfupload
+* [Hostinghelden/Pdfupload](https://github.com/dni/hostinghelden-pdfupload)
 
 # Requirements
 
