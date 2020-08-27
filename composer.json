@@ -3,20 +3,6 @@
   "type": "magento2-module",
   "description": "Adds Hostinghelden extensions",
   "version": "1.0.0",
-  "repositories": {
-    "pdfupload": {
-      "type": "vcs",
-      "url": "https://github.com/dni/hostinghelden-pdfupload"
-    },
-    "pdf": {
-      "type": "vcs",
-      "url": "https://github.com/dni/hostinghelden-pdf"
-    },
-    "smtp": {
-      "type": "vcs",
-      "url": "https://github.com/dni/hostinghelden-smtp"
-    }
-  },
   "require": {
     "magento/magento-composer-installer": "@stable",
     "hostinghelden/hostinghelden-smtp": "dev-master",
