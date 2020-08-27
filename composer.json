@@ -8,6 +8,10 @@
       "type": "git",
       "url": "https://github.com/dni/hostinghelden-pdfupload"
     },
+    "pdf": {
+      "type": "git",
+      "url": "https://github.com/dni/hostinghelden-pdf"
+    },
     "smtp": {
       "type": "git",
       "url": "https://github.com/dni/hostinghelden-smtp"
@@ -16,6 +20,7 @@
   "require": {
     "magento/magento-composer-installer": "@stable",
     "hostinghelden/hostinghelden-smtp": "dev-master",
+    "hostinghelden/hostinghelden-pdf": "dev-master",
     "hostinghelden/hostinghelden-pdfupload": "dev-master"
   },
   "authors": [
