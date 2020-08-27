@@ -1,6 +1,6 @@
 # Hostinghelden Magento2 Extension Bundle
 
-removes not used extension from core and adds following extension to your installation:
+removes unused extensions from core and adds following extensions to your installation:
 
 * [Hostinghelden/Smtp](https://github.com/dni/hostinghelden-smtp)
 * [Hostinghelden/Pdf](https://github.com/dni/hostinghelden-pdf)
@@ -14,7 +14,7 @@ Magento Composer Installer: To copy the module contents under app/code/ folder. 
 composer require magento/magento-composer-installer
 ```
 
-Add the VCS repository: So that composer can find the module. Add the following lines in your composer.json
+Add the VCS repositories: So that composer can find the modules. Add the following lines in your composer.json
 
 ```json
   "repositories": {
