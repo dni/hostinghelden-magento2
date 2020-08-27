@@ -19,8 +19,8 @@ Add the VCS repository: So that composer can find the module. Add the following 
 ```json
   "repositories": {
     "0": {
-      type: composer,
-      url: https://repo.magento.com
+      "type": "composer",
+      "url": "https://repo.magento.com"
     },
     "hostinghelden": {
       "type": "vcs",
