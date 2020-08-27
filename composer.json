@@ -5,15 +5,15 @@
   "version": "1.0.0",
   "repositories": {
     "pdfupload": {
-      "type": "git",
+      "type": "cvs",
       "url": "https://github.com/dni/hostinghelden-pdfupload"
     },
     "pdf": {
-      "type": "git",
+      "type": "vcs",
       "url": "https://github.com/dni/hostinghelden-pdf"
     },
     "smtp": {
-      "type": "git",
+      "type": "vcs",
       "url": "https://github.com/dni/hostinghelden-smtp"
     }
   },
