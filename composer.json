@@ -20,6 +20,7 @@
   "require": {
     "magento/magento-composer-installer": "@stable",
     "hostinghelden/hostinghelden-smtp": "dev-master",
+    "hostinghelden/hostinghelden-pdf": "dev-master",
     "hostinghelden/hostinghelden-pdfupload": "dev-master"
   },
   "authors": [
