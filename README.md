@@ -1,8 +1,9 @@
 # Hostinghelden Magento2 Extension Bundle
 
-adds following extension to your installation:
+removes not used extension from core and adds following extension to your installation:
 
 * Hostinghelden/Smtp
+* [Hostinghelden/Pdf](https://github.com/dni/hostinghelden-pdf)
 * Hostinghelden/Pdfupload
 
 # Requirements
@@ -17,7 +18,11 @@ Add the VCS repository: So that composer can find the module. Add the following 
 
 ```json
   "repositories": {
-    "magento2": {
+    "0": {
+      type: composer,
+      url: https://repo.magento.com
+    },
+    "hostinghelden": {
       "type": "vcs",
       "url": "https://github.com/dni/hostinghelden-magento2"
     },
