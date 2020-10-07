@@ -8,6 +8,7 @@
     "splendidinternet/mage2-locale-de-de": "^1.45",
     "firegento/magesetup2": "dev-develop",
     "hostinghelden/hostinghelden-luma": "dev-master",
+    "hostinghelden/hostinghelden-navigation": "dev-master",
     "hostinghelden/hostinghelden-smtp": "dev-master",
     "hostinghelden/hostinghelden-pdf": "dev-master",
     "hostinghelden/hostinghelden-pdfupload": "dev-master"
