@@ -15,7 +15,7 @@
     "mageplaza/module-google-maps": "^1.0",
     "mageplaza/module-lazy-loading": "^1.0",
     "mageplaza/module-security": "^1.1",
-    "mageplaza/magento-2-seo": "^1.1",
+    "mageplaza/magento-2-seo-extension": "^2.2",
     "mageplaza/module-sitemap": "^1.1",
     "mageplaza/magento-2-product-slider": "^2.0",
     "hostinghelden/hostinghelden-luma": "dev-master",
